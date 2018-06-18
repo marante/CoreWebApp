@@ -1,0 +1,24 @@
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.deps.json
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csprojAssemblyReference.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.AssemblyInfoInputs.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.AssemblyInfo.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csproj.CopyComplete
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.deps.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csprojAssemblyReference.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.AssemblyInfoInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.AssemblyInfo.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csproj.CopyComplete
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.pdb

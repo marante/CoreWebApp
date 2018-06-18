@@ -1,0 +1,74 @@
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.deps.json
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.runtimeconfig.json
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.runtimeconfig.dev.json
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Views.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Views.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Core.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Data.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Data.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Core.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csprojAssemblyReference.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorAssemblyInfo.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorAssemblyInfo.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.AssemblyInfoInputs.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.AssemblyInfo.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.TagHelpers.input.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.TagHelpers.output.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorCoreGenerate.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.Views.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csproj.CopyComplete
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.deps.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.runtimeconfig.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.runtimeconfig.dev.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Views.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Views.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Core.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Data.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Services.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Data.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Services.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\bin\Debug\netcoreapp2.1\CoreWebApp.Core.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csprojAssemblyReference.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorAssemblyInfo.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorAssemblyInfo.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.AssemblyInfoInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.AssemblyInfo.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.TagHelpers.input.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.TagHelpers.output.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorCoreGenerate.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.Views.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.csproj.CopyComplete
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp\obj\Debug\netcoreapp2.1\CoreWebApp.pdb

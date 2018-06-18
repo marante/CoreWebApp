@@ -1,0 +1,15 @@
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\CoreWebApp.Test.deps.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\CoreWebApp.Test.runtimeconfig.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\CoreWebApp.Test.runtimeconfig.dev.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\CoreWebApp.Test.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\bin\Debug\netcoreapp2.0\CoreWebApp.Test.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\obj\Debug\netcoreapp2.0\CoreWebApp.Test.csprojAssemblyReference.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\obj\Debug\netcoreapp2.0\CoreWebApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\obj\Debug\netcoreapp2.0\CoreWebApp.Test.AssemblyInfoInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\obj\Debug\netcoreapp2.0\CoreWebApp.Test.AssemblyInfo.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\obj\Debug\netcoreapp2.0\CoreWebApp.Test.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\test\CoreWebApp.Test\obj\Debug\netcoreapp2.0\CoreWebApp.Test.pdb

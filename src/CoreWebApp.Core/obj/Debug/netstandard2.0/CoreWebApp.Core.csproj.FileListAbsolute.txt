@@ -1,0 +1,16 @@
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.deps.json
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.AssemblyInfoInputs.cache
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.AssemblyInfo.cs
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\VMA11743\Projects\.NET\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.deps.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.AssemblyInfoInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.AssemblyInfo.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.pdb

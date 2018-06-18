@@ -1,0 +1,14 @@
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\bin\Debug\netstandard2.0\CoreWebApp.Services.deps.json
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\bin\Debug\netstandard2.0\CoreWebApp.Services.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\bin\Debug\netstandard2.0\CoreWebApp.Services.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\bin\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\bin\Debug\netstandard2.0\CoreWebApp.Data.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\bin\Debug\netstandard2.0\CoreWebApp.Data.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\bin\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\obj\Debug\netstandard2.0\CoreWebApp.Services.csprojAssemblyReference.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\obj\Debug\netstandard2.0\CoreWebApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\obj\Debug\netstandard2.0\CoreWebApp.Services.AssemblyInfoInputs.cache
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\obj\Debug\netstandard2.0\CoreWebApp.Services.AssemblyInfo.cs
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\obj\Debug\netstandard2.0\CoreWebApp.Services.csproj.CopyComplete
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\obj\Debug\netstandard2.0\CoreWebApp.Services.dll
+C:\Users\Marco\desktop\Projects\dotNET Core stuffs\CoreWebApp\src\CoreWebApp.Services\obj\Debug\netstandard2.0\CoreWebApp.Services.pdb
